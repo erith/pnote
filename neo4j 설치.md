@@ -5,6 +5,8 @@ https://jdk.java.net/archive/
 https://neo4j.com/download-center/#community
 
 ## 파워셸에서 ##
+```powershell
 .\bin\neo4j.ps1 install-service
 .\bin\neo4j.ps1 start
 .\bin\neo4j.ps1 uninstall-service
+```
